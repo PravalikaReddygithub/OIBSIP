@@ -39,5 +39,3 @@ The converted temperature, along with its unit (Fahrenheit or Celsius), is displ
 ### Usage
 
 To use the convertTemperature function, call it when the user clicks a button or triggers an event in the HTML document.
-
-
