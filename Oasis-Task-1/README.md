@@ -1,12 +1,14 @@
-Oasis-TASK-1
+## Landing Page - (TASK-1)
 
-Landing-page
 
 ![Oasis Task-1](https://i.ibb.co/wJjZ5s7/Screenshot-2024-02-12-182624.png)
 
 ## Farm Fresh Web Application
 This is a web application designed to deliver fresh fruits and vegetables to customers' doors. The application offers various features such as exploring the menu, learning about the company's unique offerings, and easy online ordering with secure payment options.
 
+### Technologies Used
+HTML
+CSS
 
 ### Features
 Explore Menu: Browse through a wide range of fresh fruits and vegetables available for purchase.

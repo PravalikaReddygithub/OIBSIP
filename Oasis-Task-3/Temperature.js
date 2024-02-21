@@ -1,12 +1,14 @@
 function convertTemperature() {
     let temperature = document.getElementById("temperatureInput").value;
     let type = document.getElementById("Select-unit").value;
+
     let convertedTemperature;
 
-    if (isNaN(temperature)) {
-        alert("Please enter a valid number for temperature.");
+    if (temperature.trim() === "") {
+        alert("Please enter a temperature value.");
         return;
     }
+
 
     temperature = parseFloat(temperature);
 
