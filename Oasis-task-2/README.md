@@ -4,6 +4,11 @@
 
 ## Pravalika Devudi - Portfolio
 
+## Techonlogies Used
+ - HTML
+ - CSS
+ - JavaScript
+
 ## Introduction
 Welcome to my portfolio! I'm Pravalika Devudi, I am passionate about problem-solving and thrive on creating efficient solutions. My aim is to utilize my expertise in both front-end and back-end development to create impactful web applications and contribute to dynamic projects.
 
