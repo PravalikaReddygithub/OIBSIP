@@ -8,9 +8,9 @@
 This is a simple web application for converting temperatures between Celsius, Fahrenheit, and Kelvin. It takes input from the user, validates it, and performs the conversion based on the selected unit.
 
 ### Technologies Used
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ### Parameters
 
